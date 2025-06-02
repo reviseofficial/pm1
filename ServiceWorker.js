@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-ProjetM1EB9-1.0";
 const contentToCache = [
     "Build/WebGL Site25.loader.js",
     "Build/WebGL Site25.framework.js",
-    "https://drive.usercontent.google.com/download?id=1QL1Hk5dBc1yg4O-jtTOfYEgCVxoJuJZ6&export=download&authuser=0",
+    "Build/WebGL Site25.data",
     "Build/WebGL Site25.wasm",
     "TemplateData/style.css"
 
